@@ -25,6 +25,10 @@ If you are developing a production application, we recommend using TypeScript an
 
 ---
 
+##  Live Demo
+
+ [Click here to try it out](https://app.netlify.com/sites/brilliant-travesseiro-22c142/overview)
+
 
 ---
 
@@ -44,7 +48,7 @@ If you are developing a production application, we recommend using TypeScript an
 - **Vite** – Fast build tool
 - **Tailwind CSS 3** – Utility-first styling
 - **SweetAlert2** – Beautiful alerts
-- Optional: **Netlify** for deployment
+- **Netlify** for deployment
 
 ---
 
